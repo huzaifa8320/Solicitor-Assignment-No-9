@@ -36,7 +36,7 @@
     font-size: 50px !important;
 } */
 .font-color{
-    color: #B7B7B7;
+    color: #C9C8C9 !important;
 }
 .hover-dropdown2:hover .on-hover2{
     display: block;
@@ -189,7 +189,6 @@ border-radius: 50%;
     background-color: #037EF3;
     border-radius: 10px;
 }
-
 .para3{
     font-weight: bold;
 }
@@ -342,6 +341,12 @@ border-radius: 50%;
 .para12{
     color: #8D8C84;
 }
-
+.hover1:hover{
+    color: #ffff !important;
+    transition: 0.4s;
+}
+.hover2:hover{
+    color: #7A7A7A !important;
+}
 
 
