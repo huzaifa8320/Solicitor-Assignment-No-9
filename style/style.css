@@ -275,6 +275,7 @@ border-radius: 50%;
 }
 .input2:focus{
     background-color: #272829;
+    color: #ffff;
 }
 .input2::-webkit-input-placeholder{
     color: #BCBDBD;
@@ -284,5 +285,59 @@ border-radius: 50%;
     padding: 3rem !important;
     }
 }
+.input1:focus{
+    padding-left: 20px;
+    transition: 0.5s;
+}
+.input2:focus{
+    padding-left: 20px;
+    transition: 0.5s;
+}
+.btn5{
+    background-color: #037ef3;
+    border: none;
+    color: #ffff;
+    width: 15%;
+    height: 50px;
+    border-radius: 10px;
+}
+@media(max-width:992px){
+    .btn5{
+        width: 20%;
+    }
+}
+@media(max-width:768px){
+    .btn5{
+        width: 30%;
+    }
+}
+@media(max-width:430px){
+    .btn5{
+        width: 35%;
+    }
+}
+@media(max-width:360px){
+    .btn5{
+        width: 40%;
+    }
+}
+@media(max-width:320px){
+    .btn5{
+        width: 45%;
+    }
+}
+.para10{
+    text-decoration: none;
+    color: #8D8C84;
+}
+.para11{
+    text-decoration: none;
+    color: #8D8C84;
+    font-size: 25px;
+}
+.main10{
+    background-color:;
+}
+
 
 
