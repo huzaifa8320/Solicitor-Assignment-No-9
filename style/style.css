@@ -20,7 +20,7 @@
                   display: block;
 }
 .border{
-    border: 1px solid white;
+    border: 1px solid red;
 }
 @media(min-width:500px){
     .font-size{
@@ -336,7 +336,11 @@ border-radius: 50%;
     font-size: 25px;
 }
 .main10{
-    background-color:;
+    background-color:#1B1C1E;
+    color: #ffff;
+}
+.para12{
+    color: #8D8C84;
 }
 
 
