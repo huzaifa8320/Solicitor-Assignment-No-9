@@ -2,10 +2,9 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    /* border: 1px solid black; */
 }
 .main1{
-    background-image: url(../img/background\ main.jpg);
+    background-image: url(../img/backgroundmain.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
